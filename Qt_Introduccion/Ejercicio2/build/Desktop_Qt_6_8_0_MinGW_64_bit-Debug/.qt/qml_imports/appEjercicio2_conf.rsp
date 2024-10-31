@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2
+-cmake-output
+-output-file
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/appEjercicio2_conf.cmake
+-importPath
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Ejercicio2
+-importPath
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+D:/Qt/6.8.0/mingw_64/qml
+-qrcFiles
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Ejercicio2.qrc
+C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/appEjercicio2_raw_qml_0.qrc

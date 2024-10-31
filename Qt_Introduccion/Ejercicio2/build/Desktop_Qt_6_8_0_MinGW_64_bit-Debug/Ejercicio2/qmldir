@@ -1,0 +1,7 @@
+module Ejercicio2
+typeinfo appEjercicio2.qmltypes
+prefer :/qt/qml/Ejercicio2/
+Main 1.0 Main.qml
+MyInput 1.0 MyInput.qml
+MyNewText 1.0 MyNewText.qml
+

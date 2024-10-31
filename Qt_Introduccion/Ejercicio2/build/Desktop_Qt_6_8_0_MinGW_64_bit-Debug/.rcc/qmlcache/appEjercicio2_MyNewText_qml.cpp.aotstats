@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 12
+                    }
+                ],
+                "filepath": "C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/MyNewText.qml"
+            }
+        ],
+        "moduleId": "Ejercicio2(appEjercicio2)"
+    }
+]

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ejercicio2/">
+    <file alias="Main.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/Main.qml</file>
+    <file alias="MyInput.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/MyInput.qml</file>
+    <file alias="MyNewText.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/MyNewText.qml</file>
+  </qresource>
+</RCC>
+

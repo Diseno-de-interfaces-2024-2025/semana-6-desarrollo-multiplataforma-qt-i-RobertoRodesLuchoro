@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 1,
+                        "errorMessage": "Cannot resolve property type  for binding on echoMode.",
+                        "functionName": "echoMode",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: button",
+                        "functionName": "target",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 48
+                    }
+                ],
+                "filepath": "C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Main.qml"
+            }
+        ],
+        "moduleId": "Ejercicio2(appEjercicio2)"
+    }
+]

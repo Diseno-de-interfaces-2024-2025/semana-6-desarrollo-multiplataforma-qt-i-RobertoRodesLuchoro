@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appEjercicio2_FILE C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Qt/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/appEjercicio2.exe)
+set(__QT_DEPLOY_TARGET_appEjercicio2_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appEjercicio2_RUNTIME_DLLS D:/Qt/6.8.0/mingw_64/bin/Qt6Quick.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6QmlMeta.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6QmlWorkerScript.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6QmlModels.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6Qml.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6Network.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6OpenGL.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6Gui.dll;D:/Qt/6.8.0/mingw_64/bin/Qt6Core.dll)
