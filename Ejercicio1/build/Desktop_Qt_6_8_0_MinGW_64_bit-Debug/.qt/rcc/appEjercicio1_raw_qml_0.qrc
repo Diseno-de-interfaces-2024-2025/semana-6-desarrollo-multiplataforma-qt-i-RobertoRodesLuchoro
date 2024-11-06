@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Ejercicio1/">
+    <file alias="Main.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Tarea6Final/Ejercicio1/Main.qml</file>
+    <file alias="MyView.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Tarea6Final/Ejercicio1/MyView.qml</file>
+    <file alias="MyCard.qml">C:/Users/USUARIO/Desktop/DAM/2DAM/2DAM/Interfaces/Tarea6Final/Ejercicio1/MyCard.qml</file>
+  </qresource>
+</RCC>
+

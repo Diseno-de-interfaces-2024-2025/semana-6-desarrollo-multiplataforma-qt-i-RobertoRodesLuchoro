@@ -1,0 +1,7 @@
+module Ejercicio1
+typeinfo appEjercicio1.qmltypes
+prefer :/qt/qml/Ejercicio1/
+Main 1.0 Main.qml
+MyView 1.0 MyView.qml
+MyCard 1.0 MyCard.qml
+
